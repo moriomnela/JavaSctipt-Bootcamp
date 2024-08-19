@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Rubik:wght@400;500;600;700&display=swap');
+
+
+@font-face {
+  font-family: clock;
+  src: url(./clock-font.ttf);
+}
+
+
+*{
+margin: 0px;
+padding: 0px;
+font-family: clock;
+
+}
+body{
+  margin: 100px 50px;
+  background-color: black;
+}
+.box h1 {
+font-size: 150px;
+color: #fff;
+}
